@@ -1,0 +1,13 @@
+Write the SQL statements to achieve the following:
+
+1) Create a simple select statement that returns all the data from the employees table.
+2) Create a simple select statement that returns the first name, last name, and salary from the employees table.
+3) Create a simple select statement that returns the first name, last name, and salary from the employees table where the salary is greater than 100,000.
+4) Create a simple select statement that returns the first name, last name, and salary from the employees table where the salary is greater than 100,000 and the employee is in the IT department.
+5) Create a simple select statement that returns the number of employees by department.
+6) Create a simple select statement that returns the number of employees by department and the average salary for each department.
+7) Create a simple select statement that returns the employee with the highest salary.
+8) Create a simple select statement that returns the employee joined with the department table.
+9) Create an insert statement that adds a new employee to the employees table.
+10) Create an update statement that changes the salary of an employee.
+
